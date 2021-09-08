@@ -1,4 +1,4 @@
-module github.com/saltperfect/linkparser
+module github.com/saltperfect/linkparser@v0.1
 
 go 1.16
 
