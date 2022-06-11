@@ -14,6 +14,7 @@ var exampleHTML = `
 	</head>
 	<body>
 	<h1>Social stuffs</h1>
+	<h1>Social stuffs</h1>
 	<div>
 		<a href="https://www.twitter.com/joncalhoun">
 		Check me out on twitter
